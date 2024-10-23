@@ -77,18 +77,13 @@ java CurrencyConverter2
 ## Example Screenshot
 ![image](https://github.com/user-attachments/assets/a8b15b12-d8d7-4736-9588-e1b48306db7d)
 
-
 ![image](https://github.com/user-attachments/assets/4d1687bd-3e97-48f0-9346-72c0c977b5ec)
-
 
 ![image](https://github.com/user-attachments/assets/1aaf3c34-4c1a-4ce9-b2d9-e05688ed71bc)
 
-
 ![image](https://github.com/user-attachments/assets/57570f34-4b55-4ebc-8b7e-37a84bee9497)
 
-
 ![image](https://github.com/user-attachments/assets/9208d0fb-21a2-4504-bae1-b1267f3c1072)
-
 
 ![image](https://github.com/user-attachments/assets/4469bc86-57f8-4ea5-88a7-e1f0a21cedbf)
 
